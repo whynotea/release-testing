@@ -1,0 +1,18 @@
+{
+  "image": "ghcr.io/whynotea/devcontainer-wails:v2.8.3",
+  "features": {},
+  "runArgs": [
+    "--security-opt",
+    "label=disable",
+    "--device",
+    "/dev/fuse",
+    "--userns=keep-id"
+  ],
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": []
+    }
+  },
+  "remoteUser": "code"
+}
