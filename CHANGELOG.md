@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/whynotea/release-testing/compare/v1.1.0...v1.2.0) (2024-05-11)
+
+
+### Bug Fixes
+
+* set github releases to draft ([a6543a9](https://github.com/whynotea/release-testing/commit/a6543a97f664ae6f0783fdf3641521ce2a913e0d))
+
+
+### Miscellaneous Chores
+
+* release 1.2.0 ([66b670a](https://github.com/whynotea/release-testing/commit/66b670a10509842f4a671868ba8062340fea249a))
+
 ## [1.1.0](https://github.com/whynotea/release-testing/compare/v1.0.1...v1.1.0) (2024-05-11)
 
 
