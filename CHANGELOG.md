@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/whynotea/release-testing/compare/v1.0.1...v1.1.0) (2024-05-11)
+
+
+### Features
+
+* new go application ([6466831](https://github.com/whynotea/release-testing/commit/64668317c0f54cfbf95231702e7fa87eefbf7a33))
+
 ## 1.0.1 (2024-05-11)
 
 
