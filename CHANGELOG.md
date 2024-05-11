@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/whynotea/release-testing/compare/v1.2.0...v1.3.0) (2024-05-11)
+
+
+### Miscellaneous Chores
+
+* release 1.3.0 ([0e51c37](https://github.com/whynotea/release-testing/commit/0e51c37404a506d833fe494e87d48fb607480a29))
+
 ## [1.2.0](https://github.com/whynotea/release-testing/compare/v1.1.0...v1.2.0) (2024-05-11)
 
 
