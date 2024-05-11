@@ -14,11 +14,11 @@ release-pr-dry-run:
 
 .PHONY: github-release
 github-release:
-	release-please github-release --token=${GH_TOKEN} --repo-url=whynotea/release-testing --target-branch=main
+	release-please github-release --token=${GH_TOKEN} --repo-url=whynotea/release-testing --target-branch=main --draft
 
 .PHONY: github-release-dry-run
 github-release-dry-run:
-	release-please --dry-run=true github-release --token=${GH_TOKEN} --repo-url=whynotea/release-testing --target-branch=main
+	release-please --dry-run=true github-release --token=${GH_TOKEN} --repo-url=whynotea/release-testing --target-branch=main --draft
 
 .PHONY: create-release
 create-release:
