@@ -28,3 +28,7 @@ ifdef TAG
 else
 	@echo "NO TAG provided"
 endif
+
+.PHONY: goreleaser-release-snapshot
+goreleaser-release-snapshot:
+	goreleaser release --snapshot --clean
